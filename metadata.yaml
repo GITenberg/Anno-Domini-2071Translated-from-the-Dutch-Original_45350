@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43233
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Harting_%28bioloog%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45350#Anno-Domini-2071Translated-from-the-Dutch-Original
 gutenberg_issued: '2014-04-08'
 gutenberg_type: Text
 identifiers:
